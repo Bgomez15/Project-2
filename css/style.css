@@ -9,13 +9,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #d9d9d9;
+    background-color: #767171;
 }
 
 .phone-frame {
     width: 420px;
     height: 750px;
-    background-color: white;
+    background-color: rgb(235, 235, 235);
     border-radius: 50px;
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
     display: flex;
@@ -70,7 +70,7 @@ body {
 }
 
 .received {
-    background-color: #e5e5e5;
+    background-color: #cecece;
     color: black;
     text-align: left;
     align-self: flex-start;
